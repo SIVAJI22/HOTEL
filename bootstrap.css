@@ -1,0 +1,371 @@
+@media only screen and (min-width:900px) {
+body{
+    background-color:lavender;
+}
+ 
+ #a{
+    
+}
+#i {
+    position:relative;
+    margin-top: -5%;
+    height: 400px;
+    width: 100%;
+
+}
+
+
+
+#r{
+    color: black;
+}
+#nav a{
+    margin-top: 5px;
+}
+
+#nav {
+    padding-top: 6px;
+    height: 50px;
+    width: 1350px;
+
+    background-color:#0c8581;
+    margin-bottom: 0;
+    margin-top: 70px;
+    padding-left: 58px;
+    border-radius: 20px;
+    color: white;
+ margin-left: -1240px;
+}
+#n a{
+    margin-top: -5px;
+}
+#n a:hover{
+    
+        border-bottom:  solid blue;
+     background-color: blue;
+    color: white;
+    padding: 8px;
+        border-radius: 10px;
+        box-shadow: 10px;
+      }
+
+
+#p {
+    padding-right: 15px;
+}
+
+
+
+.center {
+    
+    position: absolute;
+    top: 35%;
+    left:10%;
+    /* transform: translate(10%, 10%); */
+    color: whitesmoke;
+    font-size: xx-large;
+    font-size: 480%;
+    font-style: italic;
+}
+#previous{
+    margin-left:-1100px;
+}
+
+#backimage{
+    background-image: url(../../hotel.jpeg);
+}
+
+#i3{ border-radius: 10px;
+    margin-left: 5%;
+    
+    height: 250px;
+    width: 330px;
+    
+}
+#i1{
+    border-radius: 300px 300px;
+    height:200px;
+    width:200px;
+
+}
+
+
+form {
+
+    position: absolute;
+    top: 60%;
+    left: 10%;
+    padding: 1%;
+    background-color: darkgray;
+    color: darkgray;
+    column-gap: 100px;
+    border-radius: 10px;
+
+}
+
+
+
+.form-label1 {
+
+    position: absolute;
+    right: 87%;
+top: 1%;
+    color:honeydew;
+}
+
+.form-label2 {
+    position: absolute;
+    left: 53%;
+top: 1%;
+color:honeydew;
+}
+#navc{
+position: fixed;
+z-index: 5555555555555555555555555555555555555555555;
+    margin-top: -5px;
+     margin-bottom:100px;
+     border-radius: 8px;
+     background-color:black;
+     padding-bottom: 5px;
+}
+#sign{
+    margin-left:  100px;
+    margin-top: 10px;
+    padding-bottom: 30px ; height: 30px; width: 80px;
+
+}
+ #help{
+    margin-left: 10px;
+    height: 30px;
+    padding-bottom:  30px;
+    margin-top: 10px;
+ }
+
+#se{
+    margin-right: ;
+    margin-top: -70px;
+}
+#s{ border-radius: 10px;
+    margin-left: 300px;
+    margin-top: 8px;
+height: 40px;
+  width: 400px;
+}
+#b{
+    --bs-success-text
+
+}
+#icon{ 
+    
+   margin-top: -13px; 
+    margin-left: 200px;
+    border-radius: 200px 200px;
+    height: 80px;
+    width: 80px;
+    
+
+    
+
+
+
+    
+}
+.row{
+    margin-top: -2%;
+}
+button{ 
+    align-self: flex-start;
+    height: -10px;
+    margin-left:40%
+} 
+#i2{
+    height: 80px;
+    width: 90px;}
+    
+span{
+    overflow: hidden;
+}
+#pr{
+    font-size: 130%;
+}
+#sp{
+    text-overflow: hidden;
+    
+    
+}
+#range{
+    color: black;
+    background-color: black;
+}
+
+#con{ margin: 5%;
+    color: black;
+    background-color:whitesmoke;
+    overflow: scroll;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+#show{
+    font-size: large;
+    color: black;
+    
+}
+#view{
+    font-size: small;
+    color: black;
+    
+}
+#btn{
+    margin-left: 1%;
+}
+#world{
+    height: 20px;
+    width: 20px;
+}
+#call{
+    height: 10px;
+    width: 10px;}
+    #email{
+        height: 10px;
+        width: 10px;
+    }
+    #wifi{
+        height: 10px;
+        width: 10px;
+    }
+    #park{
+        height: 10px;
+        width: 10px;
+    }
+    #pool{
+        height: 10px;
+        width: 10px;
+    }
+    #rest{height: 10px;
+        width: 10px;
+
+    }
+    #tourist{ height: 250px;
+        width: 350px;
+        padding-right: 8%;
+    }
+    #ol{
+        font-size: large;
+    }
+
+
+
+    #card{
+        margin-top: -55%;
+        align-content: flex-start;
+        opacity: 0.4;
+        font-weight:600;
+    margin-left: 100px;
+    }
+#vi1{
+    margin-right: 90px;
+}
+
+
+#card2{   margin-top: -55%;
+margin-left: 20px;
+opacity: 0.4;
+font-weight:600;
+
+
+}
+
+
+#cardg1{   margin-top: -40%;
+    align-content: flex-start;
+    opacity: 0.4;
+    font-weight:900;
+
+}
+#cardg2{
+    margin-top: -40%;
+    margin-left: 20px;
+    opacity: 0.4;
+    font-weight:900;
+
+}
+
+#cardt1{
+    margin-top: -40%;
+    align-content: flex-start;
+
+    opacity: 0.4;
+    font-weight:900;
+
+
+}
+
+#cardt2{
+    margin-top: -40%;
+    margin-left: 20px; opacity: 0.4;
+    font-weight:1000;
+
+
+}
+
+
+#vivanta{ 
+height: 180px;
+width: 180px;
+    border-radius:500px 500px ;}
+#grand{
+    height: 180px;
+width: 180px;
+    border-radius:500px 500px 
+}
+#thepark{
+    height: 180px;
+width: 180px;
+    border-radius:500px 500px 
+}
+
+#secondnav:hover{
+    color: chartreuse;
+    
+    background-color: black;
+    width: 100%;
+    height: 8%;
+    border-radius: 8px;
+    padding: 15px; 
+    
+    z-index: 55555555555555555555;
+    
+}
+
+
+#ch{
+  margin-top: -70px;}
+
+
+#last{
+    margin-left: -13px;
+}
+
+
+
+/* 
+
+
+    #task{
+        width: 100%;
+        grid-row-end: auto;
+        background-color:brown
+    }
+    #name{
+        row-gap: 200px;
+        column-gap: 30%;
+
+    }
+    .row{
+        row-gap: 30%;
+    } */
+
+}
